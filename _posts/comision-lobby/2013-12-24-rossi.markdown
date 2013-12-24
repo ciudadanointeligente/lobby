@@ -1,10 +1,11 @@
 ---
 layout: candidato
 
-title: Evelyn Matthei
+title: Senador Fulvio Rossi Ciocca
 
 categories: 
 - presidencial
+- blacklist
 
 featured-image: ../../images/post/matthei2.png
 
@@ -13,6 +14,7 @@ gender: f
 c_twitter: Evelyn_2014
 public-email: 
 facebook: evelynmatthei.2014
+telefono: 
 
 extra_info_url: http://www.votainteligente.cl/election/presidencial/evelyn-matthei
 

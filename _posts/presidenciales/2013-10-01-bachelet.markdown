@@ -5,7 +5,6 @@ title: Michelle Bachelet
 
 categories: 
 - presidencial
-- blacklist
 
 featured-image: ../../images/post/bachelet2.png
 
