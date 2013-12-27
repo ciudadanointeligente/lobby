@@ -1,25 +1,25 @@
 ---
 layout: candidato
 
-title: Senador Fulvio Rossi Ciocca
+title: Senador Fulvio Rossi
 
 categories: 
 - presidencial
-- blacklist
+- whitelist
 
-featured-image: ../../images/post/matthei2.png
+featured-image: ../../images/comision-lobby/rossi.png
 
-gender: f
+gender: m
 
-c_twitter: Evelyn_2014
-public-email: 
-facebook: evelynmatthei.2014
-telefono: 
+c_twitter: FulvioRossiC
+public-email: frossi@senado.cl
+facebook: 
+telefono: (56-32) 2504683
 
-extra_info_url: http://www.votainteligente.cl/election/presidencial/evelyn-matthei
+extra_info_url: 
 
 
 ---
 
-Aún sin información. Aquí encontrarás de dónde viene el financiamiento de la campaña de este candidato, una vez que nos envíe la información.
+Aún sin información.
 

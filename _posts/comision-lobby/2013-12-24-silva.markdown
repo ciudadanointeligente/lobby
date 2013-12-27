@@ -5,9 +5,9 @@ title: Diputado Ernesto Silva Méndez
 
 categories: 
 - presidencial
-- blacklist
+- whitelist
 
-featured-image: ../../images/post/matthei2.png
+featured-image: ../../images/comision-lobby/silva.png
 
 gender: f
 

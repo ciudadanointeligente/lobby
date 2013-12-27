@@ -158,15 +158,11 @@ body.body-qtf .starred {
 
 /* home candidates' list */
 
-.content.presidenciales .candidatesList li {
-	width: 460px;
-}
-
 .content .candidatesList li {
 	list-style: none;
 	padding: 5px 7px;
 	margin: 0 7px 10px 0;
-	width: 170px;
+	width: 217px;
 	float: left;
 	text-align: center;
 }
@@ -313,9 +309,9 @@ small.actionQTF, .actionQTF{
 .noResponseBand, .soonBand{position: relative;}
 
 .presidenciales .noResponseBand:after{
-	background: url(../images/no-responde-grande.png) no-repeat transparent;
+	background: url(../images/no-responde-mediano.png) no-repeat transparent;
 	left: -8px;
-	height: 305px;
+	height: 150px;
 	width: 110%;
 }
 
@@ -409,10 +405,6 @@ td, th {
 
   .content h2, .fancybox-inner .content.wb h1  {
     color: #333;
-}
-
-.twitter-share-button {
-	margin-top: 8px;
 }
 
 .candidatesList .twitter-share-button {
