@@ -7,7 +7,7 @@ categories:
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/rossi.png
+featured-image: ../../images/comision-lobby/rossi-bn.png
 
 gender: m
 

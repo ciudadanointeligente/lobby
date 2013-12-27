@@ -7,7 +7,7 @@ categories:
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/sabag.png
+featured-image: ../../images/comision-lobby/sabag-bn.png
 
 gender: m
 

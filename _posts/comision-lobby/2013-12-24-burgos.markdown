@@ -7,7 +7,7 @@ categories:
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/burgos.png
+featured-image: ../../images/comision-lobby/burgos-bn.png
 
 gender: m
 

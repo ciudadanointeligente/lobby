@@ -7,7 +7,7 @@ categories:
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/squella.png
+featured-image: ../../images/comision-lobby/squella-bn.png
 
 gender: m
 

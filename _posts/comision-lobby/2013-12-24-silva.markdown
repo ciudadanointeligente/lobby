@@ -1,20 +1,20 @@
 ---
 layout: candidato
 
-title: Diputado Ernesto Silva Méndez
+title: Diputado Ernesto Silva
 
 categories: 
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/silva.png
+featured-image: ../../images/comision-lobby/silva-bn.png
 
 gender: f
 
 c_twitter: Evelyn_2014
 public-email: 
 facebook: evelynmatthei.2014
-telefono: 
+telefono: (56-32) 2505956
 
 extra_info_url: http://www.votainteligente.cl/election/presidencial/evelyn-matthei
 

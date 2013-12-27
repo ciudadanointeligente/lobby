@@ -7,7 +7,7 @@ categories:
 - presidencial
 - whitelist
 
-featured-image: ../../images/comision-lobby/bianchi.png
+featured-image: ../../images/comision-lobby/bianchi-bn.png
 
 gender: m
 

@@ -1,6 +1,6 @@
 body.body-qtf{
-	background: #1B1B1B;
-	color: #ACACAC;
+	background: #f96033;
+	color: #fff;
 }
 
 body.body-qtf .declara {
@@ -14,12 +14,16 @@ body.body-qtf .starred {
 .headTop{
 	background-color: #000;
 	color: #fff;
-	padding: 7px;
+	padding: 3px;
 	overflow: hidden;
 }
 
+.headTop .centerCont {
+	padding: 0px;
+}
+
 .headTop a{
-	color: #A3A3A3;
+	color: #f96033;
 	text-decoration: none;
 }
 
@@ -27,23 +31,24 @@ body.body-qtf .starred {
 	color: #fff;
 }
 
-.siteLogo { float: left; text-indent: -999999px}
+.siteLogo { float: left;}
 
 .mainNav{ float: right; list-style: none;}
 .mainNav ul { 
 	float: right;
 	list-style: none;
 	position: relative;
-	margin-top: 26px;
+	margin: 10px 0 0 0;
 	-webkit-padding-start: 0px;
 }
 
-.siteLogo{
-	background: url(../images/logo-qtf.png) no-repeat 0 0 transparent;
-	height: 75px;
-	display: block;
-	width: 225px;
+.headTop a.siteLogo h3 {
+	color: #f96033;
+	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+	margin: 0;
+	font-size: 36px;
 }
+
 .mainNav ul li { 
 	float: left; 
 	margin-left: 20px;
@@ -53,7 +58,6 @@ body.body-qtf .starred {
 	max-width: 1000px;
 	margin: 0 auto;
 	padding: 10px;
-}
 }
 
 .lbCont{ 
@@ -206,11 +210,18 @@ body.body-qtf .starred {
 }
 
 .content h1.titleLine{
-	font-size: 51px;
+	font-size: 129px;
+	margin: -40px auto 0px;
+	font-weight: 600;
+	border-bottom: 10px solid #000;
+}
+
+.content h1.titleLine .fa {
+	font-size: 40px;
+	vertical-align: middle;
 }
 
 .titleLine{
-	width: 70%;
 	margin: 0 auto;
 	text-align: center;
 	padding-top: 10px;
@@ -249,11 +260,6 @@ body.body-qtf .starred {
 .content .theBlackBox hr{
 	height: 10px;
 	margin: 1em;
-}
-
-.presidenciales .theBlackBox {
-	background-color: #2b2b2b;
-	padding-left: 23px;
 }
 
 .parlamentarios .theBlackBox {
@@ -413,7 +419,7 @@ td, th {
 
 a.mailto {
 	padding: 2px 5px;
-	background: #E9E9E9;
+	background: #f96033;
 	color: #000;
 	font-size: 12px;
 	border-radius: 3px;
