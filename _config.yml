@@ -7,18 +7,18 @@ rdiscount:
   extensions: [smart]
 profile_detail: true
 
-name: Quién te financia
+name: Ley de Lobby
 author: Fundación Ciudadano Inteligente
 featured-image: //images/post/
-url: http://www.quientefinancia.cl
-description: Hasta que no sepamos quién los financia nos gobierna un poder invisible.
-etiquetas: financiamiento, financiamiento campañas, financiamiento político, gasto electoral, gasto campañas, ley financiamiento electoral, transparencia electoral, transparencia campañas, limite gasto electoral, financiamiento michell bachelet, financiamiento andres velasco, financiamiento jose antonio gomez, financiamiento claudio orrego, fianciamiento andres alamand, fiananciamiento pablo longueira
+url: http://www.leydelobby.cl
+description: Sitio de campaña a favor de la aprobación de la ley del lobby.
+etiquetas: lobby, ley de lobby, ley del lobby, Senador Hosain Sabag, Diputado Jorge Burgos, Diputado Alberto Cardemil, Diputado Guillermo Ceroni, Diputado Ernesto Silva, Diputado Arturo Squella, Senador Carlos Bianchi, Senador Eduardo Frei, Senador Jaime Orpis, Senador Fulvio Rossi
 twitter: ciudadanoi
 github: ciudadanointeligente
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
-hashtag: '#QuienTeFinancia'
+gravatar_url: http://gravatar.com/avatar/15c938035f91373cb36062d6ad4ef2e5
+hashtag: '#LeydeLobby'
 
 analytics :
   provider : google 
   google : 
-      tracking_id : 'UA-41822715-1'
+      tracking_id : 'UA-46734534-1'
