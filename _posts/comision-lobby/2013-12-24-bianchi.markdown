@@ -14,7 +14,7 @@ gender: m
 c_twitter: 
 public-email: cbianchi@senado.cl
 facebook: 
-telefono: (56-32) 2504566
+telefono: +56322504566
 
 extra_info_url: 
 
