@@ -5,7 +5,7 @@ title: Diputado Arturo Squella
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/squella-bn.png
 

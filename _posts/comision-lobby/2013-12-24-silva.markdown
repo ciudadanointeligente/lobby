@@ -5,11 +5,11 @@ title: Diputado Ernesto Silva
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/silva-bn.png
 
-gender: f
+gender: m
 
 c_twitter: Evelyn_2014
 public-email: 

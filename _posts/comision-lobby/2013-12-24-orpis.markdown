@@ -5,7 +5,7 @@ title: Senador Jaime Orpis
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/orpis-bn.png
 

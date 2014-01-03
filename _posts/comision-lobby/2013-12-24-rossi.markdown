@@ -5,7 +5,7 @@ title: Senador Fulvio Rossi
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/rossi-bn.png
 

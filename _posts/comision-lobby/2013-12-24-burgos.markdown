@@ -5,7 +5,7 @@ title: Diputado Jorge Burgos
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/burgos-bn.png
 

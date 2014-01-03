@@ -5,7 +5,7 @@ title: Senador Carlos Bianchi Chelech
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/bianchi-bn.png
 

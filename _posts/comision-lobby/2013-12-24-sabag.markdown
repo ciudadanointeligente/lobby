@@ -5,7 +5,7 @@ title: Senador Hosaín Sabag
 
 categories: 
 - presidencial
-- whitelist
+- soon
 
 featured-image: ../../images/comision-lobby/sabag-bn.png
 

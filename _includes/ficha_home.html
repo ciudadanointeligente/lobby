@@ -33,11 +33,8 @@
 
               {% endif %}
          <span class="oneAction">
-                <a class="mailto" href="mailto:{{ post.public-email }}?subject=Solicito%20aprobar%20proyecto%20de%20Ley%20que%20regula%20el%20Lobby&amp;body=Estimado%20parlamentario:%0A%0AHace%2010%20años%20se%20dio%20inicio%20a%20la%20discusión%20de%20una%20ley%20del%20lobby%20para%20Chile,%20y%20pasado%20el%20tiempo%20los%20ciudadanos%20consideramos%20urgente%20aprobar%20uno%20de%20los%20proyectos%20clave%20para%20aumentar%20la%20transparencia%20y%20la%20confianza%20en%20las%20instituciones,%20así%20como%20también%20una%20herramienta%20para%20inhibir%20conductas%20que%20permitan%20anteponer%20el%20interés%20particular%20por%20sobre%20el%20general.%0A%0ALe%20escribo%20para%20solicitarle%20la%20aprobación%20de%20este%20proyecto.%20Como%20miembro%20de%20la%20comisión%20mixta%20que%20lo%20discute,%20en%20sus%20manos%20recae%20la%20responsabilidad%20de%20que%20Chile%20pueda%20tener%20una%20regulación%20al%20Lobby,%20permitiendo%20mayor%20igualdad%20de%20influencia%20política%20en%20la%20toma%20de%20decisiones%20de%20nuestro%20país.%20Esto%20beneficiará%20tanto%20a%20los%20ciudadanos%20como%20a%20usted,%20una%20autoridad,%20que%20con%20esta%20normativa%20contará%20con%20mayores%20resguardos%20en%20el%20ejercicio%20de%20su%20función%20pública.%0A%0ASomos%20muchos%20los%20que%20hemos%20adherido%20a%20leydelobby.cl%20para%20apoyarlo%20en%20su%20tarea%20de%20legislar%20favorablemente%20para%20que%20Chile%20tenga%20una%20Ley%20del%20Lobby.%0A%0ASaludos," target="_blank"><i class="fa fa-envelope"></i> Escríbele</a>
+                <a class="mailto" href="mailto:{{ post.public-email }}?subject=Solicito%20aprobar%20proyecto%20de%20Ley%20que%20regula%20el%20Lobby&amp;body=Estimado%20parlamentario:%0A%0AHace%2010%20años%20se%20dio%20inicio%20a%20la%20discusión%20de%20una%20ley%20del%20lobby%20para%20Chile,%20y%20pasado%20el%20tiempo%20los%20ciudadanos%20consideramos%20urgente%20aprobar%20uno%20de%20los%20proyectos%20clave%20para%20aumentar%20la%20transparencia%20y%20la%20confianza%20en%20las%20instituciones,%20así%20como%20también%20una%20herramienta%20para%20inhibir%20conductas%20que%20permitan%20anteponer%20el%20interés%20particular%20por%20sobre%20el%20general.%0A%0AEstoy%20consciente%20que%20la%20tarea%20de%20regular%20el%20lobby%20no%20es%20fácil,%20y%20en%20ese%20sentido%20comprendo%20que%20el%20proyecto%20de%20ley%20en%20discusión%20no%20es%20perfecto.%20Sin%20embargo%20se%20avecina%20un%202014%20cargado%20de%20reformas%20importantes%20en%20el%20sector%20de%20educación,%20energía,%20tributos%20y%20pensiones,%20que%20no%20admite%20la%20ausencia%20de%20una%20regulación%20a%20la%20actividad%20de%20lobby%20y%20de%20la%20gestión%20de%20intereses%20particulares.%0A%0ASomos%20muchos%20los%20que%20hemos%20adherido%20a%20http://leydelobby.cl/%20para%20demandar%20a%20la%20comisión%20mixta%20que%20usted%20integra,%20que%20logre%20un%20proyecto%20de%20acuerdo%20que%20pueda%20luego%20ser%20votado%20por%20el%20pleno%20del%20Senado.%20De%20usted%20depende%20que%20al%20menos%20ello%20ocurra%20en%20un%20marco%20regulatorio%20que%20garantice%20pisos%20mínimos%20de%20transparencia%20y%20frene%20los%20vicios%20de%20la%20indebida%20influencia.%0A%0Aatentos%20saludos" target="_blank"><i class="fa fa-envelope"></i> Escríbele</a>
               </span>
-
-              
-
 
 <!--          <span class="oneAction">
                 <a class="mailto" href="https://www.facebook.com/messages/{{ post.facebook }}" target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
@@ -74,9 +71,6 @@
           <span class="oneAction">
             <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}" data-text=".@{{post.c_twitter}} transparenten quien financia su campaña electoral. Pedimos hechos, no palabras!"></a>
           </span>
-<!--           <span class="oneAction">
-            <a class="mailto" href="mailto:{{ post.public-email }}?subject=¿Quién%20te%20financia?&amp;body=Estimada%20candidata:%0A%0AQuisiera%20saber%20quién%20financia%20su%20campaña%20electoral.%20%0A%0AEn%20Chile,%20los%20vínculos%20del%20poder%20político%20constituyen%20una%20amenaza%20para%20la%20creación%20de%20políticas%20públicas%20que%20promuevan%20el%20interés%20general.%20Consideramos%20que%20la%20legislación%20es%20insuficiente.%0A%0AAyúdanos%20a%20cambiar%20las%20cosas%20y%20cuéntanos%20#QuienTeFinancia" target="_blank"><i class="fa fa-envelope-o"></i> Envíale un mail</a>
-          </span> -->
           <span class="oneAction">
             <a class="mailto" href="https://www.facebook.com/messages/{{ post.facebook }}" target="_blank"><i class="fa fa-facebook"></i> Escríbele por Facebook</a>
           </span>
@@ -91,13 +85,29 @@
 
       <!--POST PRIMARIAS-->
        {% if post.categories contains 'soon' %}
-          <div class="cName">
-           {{ post.title }}     
-               <div class="soonBand">
-                <img class="" src="{{ post.featured-image }}" />
-              </div>
-           </div>
-           <br/>
+
+          <div class="cName" data-fancybox-group="candidatos-b">
+             {{ post.title }}
+            <img class=""src="{{ post.featured-image }}" />
+         </div>
+      
+            <div class="clearfix">
+              {% if post.c_twitter %}
+                  <span class="oneAction">
+                    <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}" data-text=".@{{post.c_twitter}} , le pedimos aprobar la Ley que regula el Lobby."></a>
+                  </span>
+              {% else %}
+
+              {% endif %}
+         <span class="oneAction">
+                <a class="mailto" href="mailto:{{ post.public-email }}?subject=Solicito%20aprobar%20proyecto%20de%20Ley%20que%20regula%20el%20Lobby&amp;body=Estimado%20parlamentario:%0A%0AHace%2010%20años%20se%20dio%20inicio%20a%20la%20discusión%20de%20una%20ley%20del%20lobby%20para%20Chile,%20y%20pasado%20el%20tiempo%20los%20ciudadanos%20consideramos%20urgente%20aprobar%20uno%20de%20los%20proyectos%20clave%20para%20aumentar%20la%20transparencia%20y%20la%20confianza%20en%20las%20instituciones,%20así%20como%20también%20una%20herramienta%20para%20inhibir%20conductas%20que%20permitan%20anteponer%20el%20interés%20particular%20por%20sobre%20el%20general.%0A%0AEstoy%20consciente%20que%20la%20tarea%20de%20regular%20el%20lobby%20no%20es%20fácil,%20y%20en%20ese%20sentido%20comprendo%20que%20el%20proyecto%20de%20ley%20en%20discusión%20no%20es%20perfecto.%20Sin%20embargo%20se%20avecina%20un%202014%20cargado%20de%20reformas%20importantes%20en%20el%20sector%20de%20educación,%20energía,%20tributos%20y%20pensiones,%20que%20no%20admite%20la%20ausencia%20de%20una%20regulación%20a%20la%20actividad%20de%20lobby%20y%20de%20la%20gestión%20de%20intereses%20particulares.%0A%0ASomos%20muchos%20los%20que%20hemos%20adherido%20a%20http://leydelobby.cl/%20para%20demandar%20a%20la%20comisión%20mixta%20que%20usted%20integra,%20que%20logre%20un%20proyecto%20de%20acuerdo%20que%20pueda%20luego%20ser%20votado%20por%20el%20pleno%20del%20Senado.%20De%20usted%20depende%20que%20al%20menos%20ello%20ocurra%20en%20un%20marco%20regulatorio%20que%20garantice%20pisos%20mínimos%20de%20transparencia%20y%20frene%20los%20vicios%20de%20la%20indebida%20influencia.%0A%0Aatentos%20saludos" target="_blank"><i class="fa fa-envelope"></i> Escríbele</a>
+              </span>
+
+<!--          <span class="oneAction">
+                <a class="mailto" href="https://www.facebook.com/messages/{{ post.facebook }}" target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
+              </span> -->
+            </div>
+            <div><i class="fa fa-phone"></i> {{ post.telefono }}</div>
 
       {% endif %}   
 </div>
