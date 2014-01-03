@@ -3,7 +3,7 @@ layout: base
 title: "Qué es el lobby"
 ---
 
-# ¿Qué es el lobby?*
+# ¿Qué es el lobby?
 
 Pese a que no existe una definición unívoca, el lobby puede considerarse toda comunicación oral o escrita con un funcionario público con el fin de influir sobre la legislación, las políticas públicas o las decisiones administrativas.
 
@@ -14,4 +14,6 @@ El lobby es una actividad política intrínsecamente legítima y potencialmente 
 El lobby al situarse en la interfaz entre los intereses privados y las decisiones públicas, ocupa un lugar estratégico en el proceso de formulación de políticas públicas. Puesto que las personas que ejercen el lobby (directo o a nombre de terceros) tiene intereses concretos y además están en una posición privilegiada para influir en los tomadores de decisiones públicas, es normativamente deseable y conveniente regular la interacción entre lobistas (sujetos activos del lobby) y funcionarios (sujetos pasivos) para llevar a cabo un proceso de formulación e implementación de políticas públicas que sea íntegro y de confianza a todos los actores involucrados.  
 
 
-* Información extraída del estudio "Una ley de lobby para Chile" de Horizontal y la Universidad Adolfo Ibáñez.
+Información extraída del estudio [Una Ley del Lobby para Chile][leydellobby] de Horizontal y la Universidad Adolfo Ibáñez.
+
+[leydellobby]: http://www.horizontalchile.cl/wp-content/uploads/2013/08/Una-ley-de-lobby-para-Chile.pdf
