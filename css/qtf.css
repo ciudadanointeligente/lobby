@@ -22,6 +22,12 @@ body.body-qtf .starred {
 	padding: 0px;
 }
 
+@media screen and (max-width: 800px) {
+	.headTop .centerCont {
+		width: 95%;
+	}
+}
+
 .headTop a{
 	color: #f96033;
 	text-decoration: none;
@@ -34,6 +40,7 @@ body.body-qtf .starred {
 .siteLogo { float: left;}
 
 .mainNav{ float: right; list-style: none;}
+
 .mainNav ul { 
 	float: right;
 	list-style: none;
@@ -42,16 +49,33 @@ body.body-qtf .starred {
 	-webkit-padding-start: 0px;
 }
 
+.mainNav ul li { 
+	float: left; 
+	margin-left: 20px;
+}
+
+@media screen and (max-width: 604px) {
+	.mainNav {
+		float: none;
+	}
+
+	.mainNav ul {
+		float: none;
+		margin: 10px 0px;
+		display: inline-block;
+	}
+
+	.mainNav ul li {
+		margin-right: 20px;
+		margin-left: 0;
+	}
+}
+
 .headTop a.siteLogo h3 {
 	color: #f96033;
 	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
 	margin: 0;
 	font-size: 36px;
-}
-
-.mainNav ul li { 
-	float: left; 
-	margin-left: 20px;
 }
 
 .centerCont{ 
@@ -541,6 +565,14 @@ footer span {
 	margin-top: 20px;
 }
 
+@media screen and (max-width: 800px) {
+	footer span {
+		float: none;
+		display: inherit;
+		text-align: center;
+	}
+}
+
 /*Desplegable*/
 
 .fancybox-inner {
@@ -592,7 +624,13 @@ footer span {
 	}
 
 	.content h1.titleLine {
-		font-size: 36px;
+		font-size: 48px;
+		border-bottom: none;
+		margin: -20px auto -10px;
+	}
+
+	.content h1.titleLine .fa {
+		font-size: 16px;
 	}
 
 	.content.presidenciales .ficha img {
@@ -622,10 +660,6 @@ footer span {
 	.petition {
 		height: 170px;
 		margin-top: 0;
-	}
-
-	.siteLogo {
-		margin-left: 33%;
 	}
 
 }
