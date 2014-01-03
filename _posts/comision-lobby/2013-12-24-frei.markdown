@@ -14,7 +14,7 @@ gender: m
 c_twitter: 
 public-email: eduardofrei@senado.cl 
 facebook: 
-telefono: (56-32) 2504321
+telefono: +56322504321
 
 extra_info_url: http://www.votainteligente.cl/election/presidencial/evelyn-matthei
 

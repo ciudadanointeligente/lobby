@@ -14,7 +14,7 @@ gender: m
 c_twitter: SenadorSabag
 public-email: hsabag@senado.cl
 facebook: 
-telefono: (56-32) 2504491
+telefono: +56322504491
 
 extra_info_url: 
 

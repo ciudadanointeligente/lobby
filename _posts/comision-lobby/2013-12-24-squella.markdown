@@ -14,7 +14,7 @@ gender: m
 c_twitter: arturosquella
 public-email: asquella@congreso.cl
 facebook: 
-telefono: (56-32) 2505957
+telefono: +56322505957
 
 extra_info_url: 
 

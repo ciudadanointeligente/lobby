@@ -14,7 +14,7 @@ gender: m
 c_twitter: FulvioRossiC
 public-email: frossi@senado.cl
 facebook: 
-telefono: (56-32) 2504683
+telefono: +56322504683
 
 extra_info_url: 
 

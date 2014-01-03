@@ -14,7 +14,7 @@ gender: m
 c_twitter: diputadoceroni
 public-email: gceroni@congreso.cl
 facebook: 
-telefono: (56-32) 2505988
+telefono: +56322505988
 
 extra_info_url: 
 

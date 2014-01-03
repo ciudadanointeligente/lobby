@@ -14,7 +14,7 @@ gender: m
 c_twitter: jaimeorpisb
 public-email: jorpis@senado.cl
 facebook: 
-telefono: (56-32) 2504515
+telefono: +56322504515
 
 extra_info_url: 
 

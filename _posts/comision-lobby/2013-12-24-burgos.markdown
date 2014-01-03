@@ -14,7 +14,7 @@ gender: m
 c_twitter: 
 public-email: jburgos@congreso.cl
 facebook: 
-telefono: (56-32) 2505267
+telefono: +56322505267
 
 extra_info_url: 
 

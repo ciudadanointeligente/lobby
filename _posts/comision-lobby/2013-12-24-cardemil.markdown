@@ -14,7 +14,7 @@ gender: m
 c_twitter: AlbertoCardemil
 public-email: acardemil@congreso.cl
 facebook: 
-telefono: (56-32) 2505880
+telefono: +56322505880
 
 extra_info_url: http://www.votainteligente.cl/election/presidencial/evelyn-matthei
 
