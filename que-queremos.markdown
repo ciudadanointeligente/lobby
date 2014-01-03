@@ -68,4 +68,6 @@ Tal como está redactada esta disposición, existe el riesgo inminente de poster
 
 **Propuesta de Ciudadano Inteligente:** Con el objetivo de entregar mayor certeza respecto a la entrada en vigencia de la ley, se sugiere estipular que la entrada en vigencia de la Ley tenga un plazo de 4 meses, dentro de los cuales deberán dictarse los reglamentos.
 
+</br></br></br></br>
+
 
