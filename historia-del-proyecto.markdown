@@ -12,5 +12,5 @@ title: "Historia del proyecto"
     CloudZoom.quickStart();
 </script>
 
-<img class = "cloudzoom" src = "images/infografia-ley-small.png" data-cloudzoom = "zoomImage: 'images/infografia-ley.png'"/>
+<img class = "cloudzoom" src = "images/infografia-ley-small.png" data-cloudzoom = "zoomImage: 'images/infografia-ley.png', autoInside: 973"/>
 
