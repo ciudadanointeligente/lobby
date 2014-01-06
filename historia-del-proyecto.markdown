@@ -13,4 +13,4 @@ title: "Historia del proyecto"
 </script>
 
 <img class = "cloudzoom" src = "images/infografia-ley-small.png" data-cloudzoom = "zoomImage: 'images/infografia-ley.png', autoInside: 973"/>
-
+<p>Gracias a <a href="http://www.starplugins.com/" target='_blank'>StarPlugins</a> por el zoom.</p>
