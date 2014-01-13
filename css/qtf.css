@@ -586,6 +586,11 @@ body.body-qtf footer {
   clear: both;
 }
 
+.col3 {
+	float: left;
+	width: 25%;
+}
+
 @media screen and (max-width: 800px) {
 	footer span {
 		float: none;
