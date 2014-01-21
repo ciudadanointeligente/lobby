@@ -125,6 +125,12 @@ body.body-qtf .starred {
 	padding-left:28px;
 }
 
+/*Streaming*/
+
+#mediaplayer_wrapper {
+	margin: 0 auto;
+}
+
 /* home petition */
 
 .petition-background {
