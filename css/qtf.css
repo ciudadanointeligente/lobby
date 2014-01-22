@@ -240,8 +240,8 @@ body.body-qtf .starred {
 }
 
 .content h1.titleLine{
-	font-size: 129px;
-	margin: -40px auto 0px;
+	font-size: 105px;
+	margin: 40px auto 0px;
 	font-weight: 600;
 	border-bottom: 10px solid #000;
 }
