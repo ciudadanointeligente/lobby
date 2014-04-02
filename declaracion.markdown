@@ -20,5 +20,12 @@ A través de la siguiente declaración pública, los actores y organizaciones de
 
 * Estamos conscientes que a la luz de su implementación, este proyecto podrá ser susceptible de ser perfeccionado en el futuro, al igual que cualquier política pública que busque ser efectiva. Por esta razón, la Sociedad Civil entregará su compromiso leal y vigilante para ejercitar el derecho a petición, información y rendición de cuentas, teniendo presente que el objetivo último será fortalecer la confianza en las instituciones públicas.
 
+<a href="#" onclick="window.open(&quot;https://twitter.com/share?url=http://localhost:3000/congresistas&amp;via=ciudadanoi&amp;text=Sin las reglas del juego, la ley de lobby es letra muerta. Que el @GobiernoDeChile dicte su reglamento!&quot;,&quot;twitter&quot;,&quot;width=450, height=250&quot;)">
+    <div class="btn">
+      <i class="fa fa-twitter"></i>
+      Apoya la declaración y twittea al @GobiernoDeChile!
+    </div>
+</a>
+
 
 
