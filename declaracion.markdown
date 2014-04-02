@@ -3,18 +3,22 @@ layout: base
 title: "Declaración"
 ---
 
-#Declaración por la ley del lobby
+#Declaración Pública
 
-A través de la siguiente declaración pública, los actores y organizaciones de la sociedad civil abajo firmantes, manifestamos nuestra posición a las indicaciones que este martes 7 de enero ingresó el ejecutivo para resolver las discrepancias surgidas en la tramitación del proyecto de ley que regula la actividad de lobby en Chile.
+**Organizaciones de la Sociedad Civil piden al gobierno que sea acordado a la brevedad un reglamento para que la ley de lobby entre en vigencia.**
 
-**1.** Valoramos la apertura que ha tenido el gobierno para mejorar este proyecto de ley, habiendo acogido en buena parte las recomendaciones hechas por parlamentarios y organizaciones de la sociedad civil, particularmente en relación a la regulación de los sujetos activos de lobby a través de un registro de lobbystas, la institucionalidad a cargo de la agenda de reuniones, los periodos de implementación y los sujetos que son considerados pasivos de lobby.
 
-**2.** En relación al controvertido artículo 13, sobre la creación de un registro de lobbystas previo, creemos que la fórmula propuesta en las recientes indicaciones del Ejecutivo, al menos solucionan las criticas planteadas y se complementa a lo ya acordado en el artículo 8º, que obliga a quienes quieran sostener reuniones con alguna autoridad a registrarse y proporcionar información sobre la materia de la audiencia y los intereses que representan, lo que en la práctica establece la conformación de un registro de lobbistas ex ante. El proyecto también establece que será un reglamento el que defina el detalle de la forma en que el registro y su publicidad operen, dejado abierta la posibilidad para regular aspectos claves como un código de conducta y mecanismos eficientes de denuncias y medidas aplicables en el caso de incumplimiento de la normativa. El gobierno también se allanó a la propuesta de dejar en manos del Consejo para la Transparencia la administración y publicidad de la centralización y sistematización de los registros de cada organismo público, tarea que anteriormente se le asignaba al Ministerio Secretaría General de la Presidencia. Un elemento de suma relevancia, puesto que será un organismo autónomo y no político quien administre la publicidad de los registros.
+A través de la siguiente declaración pública, los actores y organizaciones de la sociedad civil abajo firmantes, **hacemos un llamado al Gobierno de la Presidenta Bachelet para que convoque a una mesa de trabajo donde sea acordado antes del 08 de Junio del año en curso el reglamento de la Ley N° 20.730**, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios. Al respecto manifestamos:
 
-**3.** La experiencia comparada de los pocos países del mundo que han avanzado en la regulación del lobby nos ha demostrado que se requieren grandes acuerdos y una lógica incremental de cada normativa. La presión ciudadana y los acercamientos producidos entre los parlamentarios y el gobierno han permitido mejorar este proyecto de ley considerablemente. Estamos conscientes que a la luz de su implementación, este proyecto deberá ser perfeccionado en el futuro, al igual que cualquier política pública que busque ser efectiva.
+* Valoramos el esfuerzo puesto por el Gobierno, el Congreso Nacional y la Sociedad Civil en la aprobación de la Ley de Lobby y que, luego de 10 años de discusión, fue publicada el 8 de marzo de 2014. Sin embargo, consideramos que el esfuerzo habrá sido en vano mientras no se dicten los reglamentos que permitan la entrada en vigencia de la ley. Por ello, pedimos al Gobierno de la Presidenta Bachelet que haga todas las gestiones necesarias para dictar, de conformidad con el mandato legal, antes del 08 de Junio la normativa en cuestión.
 
-El proyecto de ley del lobby, incluidas sus recientes indicaciones, va en el sentido correcto, por lo que llamamos a los parlamentarios miembros de la comisión mixta a lograr el acuerdo que permita despachar a la Sala el proyecto de Ley del Lobby, materia que ya cumple 10 años en proceso legislativo.
+* Que para seguir avanzando en la regulación del lobby y la gestión de intereses particulares, es de vital importancia abrir la discusión de su reglamento a las Organizaciones de la Sociedad Civil y al Consejo para la Transparencia. Pedimos al Ministerio Secretaría General de la Presidencia que convoque a una mesa de trabajo, donde se puedan aunar visiones y consensuar un reglamento que venga a garantizar una buena implementación y funcionamiento de la ley.  
 
-</br></br></br></br>
+* Consideramos que el reglamento de esta ley debe agilizar los procedimientos y plazos para disponibilizar la información a la ciudadanía, como también establecer estándares claros de transparencia para quienes quieran desarrollar actividades de lobby. También consideramos clave el rol que cumplan los sujetos pasivos, quienes deberán llevar responsablemente los registros que la ley establece y garantizar en todo momento la igualdad de trato respecto de los diversos solicitantes. 
+
+* Pedimos a la Cámara de Diputados y Senado, así como también a los demás sujetos pasivos de la Ley de Lobby, que tomen como modelo el reglamento que se acuerde en la mesa de trabajo, para dictar los suyos a la brevedad, con el objeto de que se pueda implementar dicha legislación a plenitud. 
+
+* Estamos conscientes que a la luz de su implementación, este proyecto podrá ser susceptible de ser perfeccionado en el futuro, al igual que cualquier política pública que busque ser efectiva. Por esta razón, la Sociedad Civil entregará su compromiso leal y vigilante para ejercitar el derecho a petición, información y rendición de cuentas, teniendo presente que el objetivo último será fortalecer la confianza en las instituciones públicas.
+
 
 
