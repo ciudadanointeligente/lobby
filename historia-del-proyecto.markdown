@@ -11,9 +11,9 @@ title: "Historia del proyecto"
 
 **13 de enero de 2014** – El proyecto es despachado de la Comisión Mixta, incluyendo las peticiones realizadas por la sociedad civil en leydelobby.cl
 
-**21 de enero de 2014** - El Senado da su aprobación al proyecto de ley de lobby.
+**21 de enero de 2014** - El Senado da su aprobación al proyecto de ley boletín 6189-06 que establece normas sobre la actividad del lobby.
 
-**22 de enero de 2014** - La Cámara de Diputados da su aprobación al proyecto de ley de lobby.
+**22 de enero de 2014** - La Cámara de Diputados da su aprobación al proyecto de ley boletín 6189-06 que establece normas sobre la actividad del lobby.
 
 **08 de marzo de 2014 – Se publica la ley de lobby, pero su entrada en vigencia queda condicionada a que se dicten sus reglamentos.**
 
