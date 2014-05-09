@@ -28,3 +28,4 @@ title: "Historia del proyecto"
  
 **08 de mayo de 2014** – Representantes de las organizaciones de la sociedad civil agrupadas en LeydeLobby.cl sostienen una reunión con Rodrigo Mora, Presidente de la Comisión Defensora Ciudadana y Transparencia, para hacer entrega formal del reglamento modelo de la ley del lobby.  En dicha instancia se valoró por parte de la autoridad el trabajo realizado por las ONG’s, y se anunció que se someterá a consulta pública el reglamento de la ley de lobby elaborado por SEGPRES.
 
+![Entrega Reglamento Modelo](/images/entregaReglamento.jpg)
