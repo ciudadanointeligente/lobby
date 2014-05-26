@@ -28,6 +28,12 @@ body.body-qtf .starred {
   background: #222;
 }
 
+.btns-consultapublica .btn {
+  width: 49%;
+  float: left;
+  margin: 10px 5px;
+}
+
 .headTop{
   background-color: #000;
   color: #fff;
