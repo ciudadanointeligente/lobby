@@ -5,6 +5,7 @@ title: "Historia del proyecto"
 
 # Bitácora
 
+
 **30 de diciembre de 2013** - Luego de años de trabajo y seguimiento al tema de la regulación del lobby, más de 40 ONG’s y decenas de líderes de opinión nos unimos para pedir a la Comisión Mixta que llegara a un acuerdo que permitiera seguir con la etapa final de la tramitación de la ley de lobby.
 
 **06 de enero de 2014** -  Con el sitio leydelobby.cl, se lanzó oficialmente la campaña para promover la aprobación de la ley de lobby.
@@ -17,4 +18,14 @@ title: "Historia del proyecto"
 
 **08 de marzo de 2014 – Se publica la ley de lobby, pero su entrada en vigencia queda condicionada a que se dicten sus reglamentos.**
 
+**09 de abril de 2014** – Lanzamiento campaña “Sin los reglamentos, la ley de lobby es letra muerta” en LeydeLobby.cl. Iniciativa que solicita al Gobierno de la Presidenta Bachelet que dicte su reglamento de la ley de lobby aplicando estándares de participación ciudadana.
+ 
+**10 de abril de 2014** - Se efectúa reunión de Organizaciones de la Sociedad Civil que trabajan temas de transparencia con la Ministra Secretaria General de la Presidencia, Ximena Rincón; Juan José Soto de la Unidad de Modernización del Estado, y; Rodrigo Mora de la Comisión Defensora Ciudadana y Transparencia. En dicha instancia la Ministra encargó a la Comisión Defensora Ciudadana y Transparencia recibir los documentos y propuestas de las organizaciones agrupadas en LeydeLobby.cl.
+ 
+**14 de abril de 2014** – Se inicia campaña en redes sociales para que todos los ciudadanos comenten y hagan observaciones a la propuesta de reglamento modelo de la ley de lobby elaborada por Ciudadano Inteligente.
+ 
+**22 de abril de 2014** – Distintas organizaciones de la sociedad civil agrupadas en Leydelobby.cl se reúnen para reflexionar y trabajar en la propuesta de reglamento modelo de la ley de lobby elaborada por Ciudadano Inteligente. Al finalizar la fructífera reunión, se llega a acuerdo en el texto del reglamento modelo común.
+ 
+**08 de mayo de 2014** – Representantes de las organizaciones de la sociedad civil agrupadas en LeydeLobby.cl sostienen una reunión con Rodrigo Mora, Presidente de la Comisión Defensora Ciudadana y Transparencia, para hacer entrega formal del reglamento modelo de la ley del lobby.  En dicha instancia se valoró por parte de la autoridad el trabajo realizado por las ONG’s, y se anunció que se someterá a consulta pública el reglamento de la ley de lobby elaborado por SEGPRES.
 
+![Entrega Reglamento Modelo](/images/entregaReglamento.jpg)
