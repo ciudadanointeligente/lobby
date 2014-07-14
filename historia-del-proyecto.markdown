@@ -29,3 +29,9 @@ title: "Historia del proyecto"
 **08 de mayo de 2014** – Representantes de las organizaciones de la sociedad civil agrupadas en LeydeLobby.cl sostienen una reunión con Rodrigo Mora, Presidente de la Comisión Defensora Ciudadana y Transparencia, para hacer entrega formal del reglamento modelo de la ley del lobby.  En dicha instancia se valoró por parte de la autoridad el trabajo realizado por las ONG’s, y se anunció que se someterá a consulta pública el reglamento de la ley de lobby elaborado por SEGPRES.
 
 ![Entrega Reglamento Modelo](/images/entregaReglamento.jpg)
+
+**30 de junio de 2014** – La Comisión de ética y transparencia del Senado somete a consulta pública el reglamento de lobby de su corporación. 
+
+**02 de julio de 2014** – Representantes de la Fundación Ciudadano Inteligente presentan ante la Comisión de Ética y Transparencia de la Cámara de Diputados el reglamento modelo elaborado en el marco del trabajo realizado por las ONG´s agrupadas en leydelobby.cl. En dicha oportunidad la Comisión destacó el trabajo realizado por la sociedad civil. 
+
+**04 de julio de 2014** – La Comisión de Ética y Transparencia de la Cámara de Diputados somete a consulta pública el reglamento de lobby de su corporación.
