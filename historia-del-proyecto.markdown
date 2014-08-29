@@ -34,4 +34,6 @@ title: "Historia del proyecto"
 
 **02 de julio de 2014** – Representantes de la Fundación Ciudadano Inteligente presentan ante la Comisión de Ética y Transparencia de la Cámara de Diputados el reglamento modelo elaborado en el marco del trabajo realizado por las ONG´s agrupadas en leydelobby.cl. En dicha oportunidad la Comisión destacó el trabajo realizado por la sociedad civil. 
 
-**04 de julio de 2014** – La Comisión de Ética y Transparencia de la Cámara de Diputados somete a consulta pública el reglamento de lobby de su corporación.
+**04 de julio de 2014** – La Cámara de Diputados y el Senado someten a consulta pública sus respectivos reglamentos de lobby.
+
+**28 de agosto de 2014** – Se publica en el Diario Oficial el Reglamento de la ley del Lobby. Comienzan a correr los 3 meses para su entrada en vigencia.
