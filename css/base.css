@@ -233,6 +233,10 @@ h2.titleLine2{
 	font-size: 6em;
 	margin: 0;
 }
+
+.theBlackBox{
+	text-align: center;
+}
 /*-------*/
 
 .table-declare{width: 100%; color: #000;}
