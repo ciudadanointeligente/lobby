@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
   margin: 0;
-  -webkit-font-smoothing: antialiased; 
+  -webkit-font-smoothing: antialiased;
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -83,7 +83,7 @@ a {
 
   .content h1 a {
     color: #111;
-    text-decoration: none; 
+    text-decoration: none;
   }
 
   .content h2 {
@@ -106,7 +106,7 @@ a {
 
   .content h2 a {
     color: #111;
-    text-decoration: underline; 
+    text-decoration: underline;
   }
   .content h3 {
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -229,6 +229,10 @@ a {
     color: #fff; }
 
 
+h2.titleLine2{
+	font-size: 6em;
+	margin: 0;
+}
 /*-------*/
 
 .table-declare{width: 100%; color: #000;}
