@@ -62,7 +62,7 @@ body.body-qtf .starred {
 
 .mainNav{ float: right; list-style: none;}
 
-.mainNav ul { 
+.mainNav ul {
   float: right;
   list-style: none;
   position: relative;
@@ -70,8 +70,8 @@ body.body-qtf .starred {
   -webkit-padding-start: 0px;
 }
 
-.mainNav ul li { 
-  float: left; 
+.mainNav ul li {
+  float: left;
   margin-left: 20px;
 }
 
@@ -99,13 +99,13 @@ body.body-qtf .starred {
   font-size: 36px;
 }
 
-.centerCont{ 
+.centerCont{
   max-width: 1000px;
   margin: 0 auto;
   padding: 10px;
 }
 
-.lbCont{ 
+.lbCont{
   max-width: 600px;
   margin: 0 auto;
   padding: 0 46px;
@@ -226,9 +226,9 @@ body.body-qtf .starred {
   clear: both;
   display: block;
   margin: 0 auto;
-  
+
 }
-.content .candidatesList{ 
+.content .candidatesList{
   clear: both;
   display: block;
   overflow: hidden;
@@ -281,11 +281,16 @@ body.body-qtf .starred {
   padding-top: 10px;
 }
 
-.candidatesList .cName{ 
+.titleline2 h2{
+	font-size: 6em;
+	margin: 0;
+}
+
+.candidatesList .cName{
   color: #fff;
   font-size: 1.45em;
   text-decoration: none;
-  line-height: 1.4em; 
+  line-height: 1.4em;
   clear: both;
   display: block;
 }
@@ -305,9 +310,9 @@ body.body-qtf .starred {
 .theWhiteBox .ficha{
   background-color: #d2d2d2;
   color: #000;
-} 
+}
 
-.theWhiteBox .ficha a.cName{ 
+.theWhiteBox .ficha a.cName{
   color: #000;
 }
 
@@ -327,7 +332,7 @@ body.body-qtf .starred {
   background-position: center;
   height: 10px;
 }
-small.actionQTF, .actionQTF{ 
+small.actionQTF, .actionQTF{
   line-height: 25px;
   color: #ef4036;
 }
@@ -351,7 +356,7 @@ small.actionQTF, .actionQTF{
 
 .cImage{ float: left;}
 .well.companies {
-  text-align: center; 
+  text-align: center;
   font-weight: lighter;
   line-height: 140%;
   color: #000;
@@ -359,7 +364,7 @@ small.actionQTF, .actionQTF{
 
 .well.companies p, .spendItem{font-size: 90%; font-weight: lighter; color: #000;}
 
-.donors li{ 
+.donors li{
   text-align: left;
   font-size: 80%;
 }
@@ -533,11 +538,11 @@ top: -6px;
     content: " ";
     display: table;
 }
- 
+
 .clearfix:after {
     clear: both;
 }
- 
+
 /* IE6/7 support */
 .clearfix {
     *zoom: 1;
