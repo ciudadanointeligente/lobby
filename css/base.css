@@ -231,7 +231,6 @@ a {
 
 h2.titleLine2{
 	font-size: 6em;
-	margin: 0;
 	text-align: center;
 }
 
@@ -304,7 +303,11 @@ border-top-left-radius: 4px;
 
 /* ----- */
 
-
+.main-info{
+	width: 100%;
+	margin: 0 auto;
+	height: 100%;
+}
 
 .well{
   min-height: 20px;
