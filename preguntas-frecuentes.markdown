@@ -30,12 +30,17 @@ Se considera lobby las reuniones con autoridades o funcionarios para intentar ob
 
 ### Ejemplos:
 
-**A.** Si me reúno con un alcalde para darle mi punto de vista, o el de la organización que represento, sobre el plan regulador que debe adoptar ➜ estoy haciendo lobby
-**B.** Si me reúno con un parlamentario para darle mi punto de vista, o el de la organización que represento, sobre una legislación que se está discutiendo en el Congreso ➜ estoy haciendo lobby
-**C.** Si me encuentro con un concejal en un café y le doy mi punto de vista, o el de la organización que represento, sobre una ordenanza que el Concejo va a adoptar ➜ estoy haciendo lobby
-**D.** Si acudo a una manifestación frente a un Ministerio y expresamos nuestro punto de vista sobre una legislación que están trabajando ➜ no estoy haciendo lobby
-**E.** Si un Subsecretario me cita a una mesa de trabajo para discutir, junto a otras personas, sobre una regulación que se pretende impulsar ➜ no estoy haciendo lobby
-**F.** Si acudo a una Comisión del Congreso a dar mi punto de vista, o el de la organización que represento, sobre una legislación que se está discutiendo ➜ no estoy haciendo lobby
+* **A.** Si me reúno con un alcalde para darle mi punto de vista, o el de la organización que represento, sobre el plan regulador que debe adoptar ➜ estoy haciendo lobby
+
+* **B.** Si me reúno con un parlamentario para darle mi punto de vista, o el de la organización que represento, sobre una legislación que se está discutiendo en el Congreso ➜ estoy haciendo lobby
+
+* **C.** Si me encuentro con un concejal en un café y le doy mi punto de vista, o el de la organización que represento, sobre una ordenanza que el Concejo va a adoptar ➜ estoy haciendo lobby
+
+* **D.** Si acudo a una manifestación frente a un Ministerio y expresamos nuestro punto de vista sobre una legislación que están trabajando ➜ no estoy haciendo lobby
+
+* **E.** Si un Subsecretario me cita a una mesa de trabajo para discutir, junto a otras personas, sobre una regulación que se pretende impulsar ➜ no estoy haciendo lobby
+
+* **F.** Si acudo a una Comisión del Congreso a dar mi punto de vista, o el de la organización que represento, sobre una legislación que se está discutiendo ➜ no estoy haciendo lobby
 
 ## ¿A que autoridades se le aplica la ley?
 
