@@ -1,4 +1,4 @@
-BASE_PATH: http://ciudadanointeligente.github.io/lobby
+BASE_PATH: http://leydelobby.cl
 markdown: rdiscount
 pygments: true
 permalink: /posts/:title
@@ -10,7 +10,7 @@ profile_detail: true
 name: Ley de Lobby
 author: Fundación Ciudadano Inteligente
 featured-image: //images/post/
-url: http://www.leydelobby.cl
+url: http://leydelobby.cl
 description: Sitio de campaña a favor de la aprobación de la ley del lobby.
 etiquetas: lobby, ley de lobby, ley del lobby, Senador Hosain Sabag, Diputado Jorge Burgos, Diputado Alberto Cardemil, Diputado Guillermo Ceroni, Diputado Ernesto Silva, Diputado Arturo Squella, Senador Carlos Bianchi, Senador Eduardo Frei, Senador Jaime Orpis, Senador Fulvio Rossi
 twitter: ciudadanoi
