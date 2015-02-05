@@ -1,178 +1,68 @@
 <!doctype html>
-<html prefix="og: http://ogp.me/ns#" lang="es">
+<html prefix="og: //ogp.me/ns#" lang="es">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>{{ site.name }}</title>
   <meta name="author" content="{{ site.author }}" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="keywords" content="{{ site.etiquetas }}" >
   <meta property="og:title" content="Ley de lobby" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://leydelobby.cl/" />
-  <meta property="og:image" content="http://leydelobby.cl/images/icono-lobby.png" />
-  <meta property="og:description" content="Que el lobby no sea letra muerta, acordemos las reglas del juego." />
+  <meta property="og:url" content="//leydelobby.cl/" />
+  <meta property="og:image" content="//leydelobby.cl/images/icono-lobby.png" />
+  <meta property="og:description" content="{{ site.description }}" />
 
-  <link rel="stylesheet" href="/css/qtf.css" type="text/css" />
+  <title>{{ site.name }}</title>
+
   <link rel="stylesheet" href="/css/base.css" type="text/css"/>
-  <link rel="stylesheet" href="/css/jquery.countdown.css" />
+  <link rel="stylesheet" href="/css/qtf.css" type="text/css" />
   <link rel="icon" href="favicon.ico" sizes="16x16">
-  <link rel="stylesheet" href="/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-  <script type="text/javascript" src="/js/fancybox/jquery.fancybox.pack.js"></script>
-  <script type="text/javascript" src="/js/flowplayer-3.2.13.min.js"></script>
-  <script type="text/javascript" src="/js/fancybox/jquery.fancybox.js"></script>
-  <script src="/js/jquery.countdown.js"></script>
-  <script src="/js/script.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-        <!-- Include Cloud Zoom CSS. -->
-        <link rel="stylesheet" type="text/css" href="/css/cloudzoom.css" />
-        <!-- Include Cloud Zoom script. -->
-        <script type="text/javascript" src="/js/cloudzoom.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <!-- Latest compiled and minified JavaScript -->
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
 </head>
 
-<body class="body-qtf">
-  <div class="headTop">
-    <div class="centerCont">
-      <a class="siteLogo" href="/index.html" title="Quién te financia?"><h3>Ley de Lobby</h3></a>
-      <nav class="mainNav">
-        {% include menu.html %}
-      </nav>
-    </div>
-  </div>
+<body>
+  <nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">{{ site.name }}</a>
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div><!-- /.nav-collapse -->
+    </div><!-- /.container -->
+  </nav><!-- /.navbar -->
 
-  <div class="centerCont">
-    <section class="sidebar">
-      <section class="meta">
-
-        <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.twitter_slogan }}" data-via="ciudadanoi" data-lang="es" >Twittear</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-
-
-        <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
-        <div class="fb-like" data-href="http://leydelobby.cl/" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
-
-      </section>
-    </section>
-    {{ content }}
-  </div>
-
-    <footer>
-        <div class="centerCont">
-          <!--<div class="clearfix" id="convocan">
-            <p><strong>Organizaciones que convocan:</strong></p>
-            <div class="clearfix">
-              <span><a href="http://ciudadanointeligente.org/" target="_blank"><img src="images/logo-ciudadanoi.png"></a></span>
-              <span><a href="http://www.horizontalchile.cl/en" target="_blank"><img src="images/logos/horizontal.png"></a></span>
-              <span><a href="http://www.chiletransparente.cl/"><img src="images/logos/chiletransparente.png"></a></span>
-              <span><a href="http://www.uchile.cl/portal/investigacion/centros-y-programas/centros-de-estudio/6936/centro-de-estudios-de-opinion-publica-cedop" target="_blank"><img src="images/logos/cedop.png"></a></span>
-              <span><img src="images/logos/dignidadtotal.png"></span>
-          </div>
-          <div class="clearfix">
-              <span><a href="http://www.proacceso.cl/"><img src="images/logos/proacceso.png"></a></span>
-              <span><a href="http://www.caip.cl/"><img src="images/logos/caip.png"></a></span>
-              <span><a href="http://www.fundacionequitas.org/" target="_blank"><img src="images/logos/equitas.png"></a></span>
-              <span><a href="http://www.fundacionpobreza.cl/" target="_blank"><img src="images/logos/fusupo.png"></a></span>
-              <span><a href="http://www.educacion2020.cl/" target="_blank"><img src="images/logos/2020.png"></a></span>
-              <span><a href="http://www.casadelapaz.cl/" target="_blank"><img src="images/logos/casadelapaz.png"></a></span>
-          </div>
-          <div class="clearfix">
-              <span><a href="http://www.redliberal.cl/" target="_blank"><img src="images/logos/redliberal.png"></a></span>
-              <span><a href="http://accionag.cl/" target="_blank"><img src="images/logos/accion.png"></a></span>
-              <span><img src="images/logos/ads.png"></span>
-              <span><img src="images/logos/acda.png"></span>
-              <span><img src="images/logos/asambleaciudadanamagallanes.png"></span>
-              <span><img src="images/logos/anef.png"></span>
-              <span><a href="http://www.codesa.cl/wp/" target="_blank"><img src="images/logos/codesa.png"></a></span>
-          </div>
-          <div class="clearfix">
-              <span><img src="images/logos/ct.png"></span>
-              <span><img src="images/logos/fdea.png"></span>
-              <span><a href="http://www.greenpeace.org/chile/es/" target="_blank"><img src="images/logos/greenpeace.png"></a></span>
-              <span><a href="http://www.amnistia.cl/web/" target="_blank"><img src="images/logos/amnistia.png"></a></span>
-              <span><img src="images/logos/kiwicha.png"></span>
-              <span><img src="images/logos/uchm.png"></span>
-              <span><a href="http://www.iguales.cl/" target="_blank"><img src="images/logos/iguales.png"></a></span>
-          </div>
-          <div class="clearfix">
-              <span><img src="images/logos/populus.png"></span>
-              <span><img src="images/logos/cultiva-medicina.png"></span>
-              <span><img src="images/logos/yo-reciclo.png"></span>
-              <span><img src="images/logos/todo-mejora.png"></span>
-              <span><img src="images/logos/rock-the-vote.png"></span>
-              <span><img src="images/logos/revdemocratica.png"></span>
-              <span><img src="images/logos/hogar-de-cristo.png"></span>
-              <span><img src="images/logos/izquierda-autonoma.png"></span>
-          </div>
-          <div class="col3">
-              <p>ARETACOM</p>
-          </div>
-          <div class="clearfix"></div>
-          <div class="clearfix"></div>
-          <div class="clearfix"></div>
-
-          <div class="clearfix">
-            <p><strong>Adherentes:</strong></p>
-              <div class="col3">
-                <p>Eduardo Engel</p>
-                <p>Guillermo González</p>
-                <p>Robert Funk</p>
-                <p>Felipe Torres</p>
-                <p>Sebastián Soto</p>
-              </div>
-              <div class="col3">
-                <p>Romina Campos</p>
-                <p>Gabriel Guzmán</p>
-                <p>Alberto Precht</p>
-                <p>Sebastián Iglesias Sichel</p>
-              </div>
-              <div class="col3">
-                <p>Felipe Heusser</p>
-                <p>María Jaraquemada</p>
-                <p>Álvaro Castañón</p>
-                <p>Jorge Correa Sutil</p>
-              </div>
-              <div class="col3">
-                <p>Hernán Larraín M.</p>
-                <p>Cristóbal Bellolio</p>
-                <p>Nicolás Del Valle</p>
-                <p>Enrique Rajevic</p>
-              </div>
-          </div>
-        </div>-->
-          <div>
-            <p>Sitio desarrollado por:</p>
-            <a href="http://ciudadanointeligente.org/" target="_blank"><img src="images/logo-ciudadanoi.png"></a><span><a href="tel:+56224192770">+56 2 2419 2770</a> | Holanda 895, Providencia, Santiago | <a href="#" class="email-prensa">Mail contacto</a></span>
-          </div>
-        </div>
-    </footer>
-
-  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+  {{content}}
+  
+  <footer>
+    [el footer]
+  </footer>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-46734534-1', 'leydelobby.cl');
+    ga('create', {{ site.analytics.google.tracking_id }}, 'leydelobby.cl');
     ga('send', 'pageview');
   </script>
-
-        <script>
-         $(document).ready(function(){
-            $('.email-prensa').attr('href','mailto:'+'info'+'@'+'ciudadanointeligente.org?'+'Subject=Prensa%20ley%20del%20lobby');
-         })
-        </script>
-
 </body>
+
 </html>

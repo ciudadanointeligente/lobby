@@ -4,59 +4,9 @@ title: Quien te financia
 published: true
 ---
 
-<script>
-        $(document).ready(function() {
-            $('.fancybox').fancybox({
-                padding : 0,
-                prevEffect : 'none',
-                nextEffect : 'none',
-                closeBtn  : true,
-                arrows    : true,
-
-            });
-        });
-    </script>
-
-<section class="content home presidenciales">
-
-  <div class="manAbove"> </div>
-  <div class="main-info">
-	<img src="{{site.url}}/images/info.jpg">
-  </div>
-
-
-
-        <!--<iframe src="//player.vimeo.com/video/91416388" width="100%" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
-
-
-        <!--<a href="#" onclick="window.open(&quot;https://twitter.com/share?url=http://localhost:3000/congresistas&amp;via=ciudadanoi&amp;text=Sin las reglas del juego la ley de lobby es letra muerta. Que @GobiernoDeChile dicte su reglamento! http://leydelobby.cl/&quot;,&quot;twitter&quot;,&quot;width=450, height=250&quot;)">
-            <div class="btn">
-              <i class="fa fa-twitter"></i>
-              Súmate a la campaña y twittea al @GobiernoDeChile!
-            </div>
-        </a>-->
-
-
-
-    </div>
-</section>
-<script type="text/javascript">
-flowplayer( "envivo", "/js/flowplayer-3.2.18.swf", {
-  clip: {
-            autoPlay: true,
-                                  live: true,
-                                  autoBuffering: true,
-                                  provider: 'rtmp'
-                                  },
-                                  plugins: {
-                                  rtmp: {
-                                  url: '/js/flowplayer.rtmp-3.2.13.swf'
-                                  }
-                                  }
-                                  });
-</script>
-
-
-{% if (site.categories.senadores or site.categories.diputados) %}
-
-{% endif %}
+  <!-- the content -->
+  {% include part01.html %}
+  {% include part02.html %}
+  {% include part03.html %}
+  {% include part04.html %}
+  <!-- end of the content -->
