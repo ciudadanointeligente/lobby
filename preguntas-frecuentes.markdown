@@ -3,6 +3,11 @@ layout: base
 title: "¿Cómo funciona la ley de lobby?"
 ---
 
+<div class="alert alert-info alert-dismissible fade in" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+  <h2>Si quieres solicitar una audiencia o reunión, dirígete al sitio web del organismo correspondiente</h2>
+</div>
+
 # ¿Cómo funciona la ley de lobby?
 
 
@@ -122,3 +127,9 @@ Se establece un sistema de sanciones pecuniarias (10 a 50 UTM) para asegurar la 
 ## ¿El lobby es lo mismo que el tráfico de influencias?
 
 No. El tráfico de influencias supone que un particular se gana a la autoridad de manera ilegítima, ya sea mediante regalos o favores políticos. Penalmente es sancionada con tipo de cohecho impropio. El lobby por su parte, es legítimo y no contempla regalías ni intercambios, sino solo argumentos.
+
+<script type="text/javascript">
+  $('#myAlert').on('closed.bs.alert', function () {
+  // do something…
+})
+</script>

@@ -647,6 +647,18 @@ body.body-qtf footer {
   margin: 20px 0;
 }
 
+/*Alert*/
+
+.alert h2 {
+  margin: 0;
+}
+
+.alert-info {
+    color: #F74815;
+    background-color: #FFD8CC;
+    border-color: #FFD8CC;
+}
+
 /*Media queries*/
 
 @media screen and (max-width: 1024px) {
